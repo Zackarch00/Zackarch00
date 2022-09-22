@@ -1,4 +1,4 @@
-## Olá! ...sou apenas um estudante de CyberSecurity// 
+## Olá! ... sou apenas um estudante de CyberSecurity// 
 
 <div align="center">
   <a href="https://github.com/Zackarch00">
