@@ -18,3 +18,4 @@
   ##
   
 
+ ![Snake animation](https://github.com/leobaumhart2/leobaumhart2/blob/output/github-contribution-grid-snake.svg)
